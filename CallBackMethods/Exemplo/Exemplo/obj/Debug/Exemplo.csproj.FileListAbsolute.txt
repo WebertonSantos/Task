@@ -1,0 +1,14 @@
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\MainWindow.g.cs
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\App.g.cs
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo_MarkupCompile.cache
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo_MarkupCompile.lref
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\MainWindow.baml
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.g.resources
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.Cache
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Andressa\Desktop\CallBackMethods\Exemplo\Exemplo\obj\Debug\Exemplo.pdb

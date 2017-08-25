@@ -1,0 +1,6 @@
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Andressa\Desktop\CancelandoTasks\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
